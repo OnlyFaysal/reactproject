@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with faysal
+          Learn React with faysal bdkbdkabkhasbsddd
         </a>
       </header>
     </div>
